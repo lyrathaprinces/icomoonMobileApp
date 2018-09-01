@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/clacey/.android/build-cache/71b5a8e81636aa7d23cdd2e1b169d7a58231abea/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0dfef999579ab04e3a093e2547167d541528a430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/clacey/.android/build-cache/71b5a8e81636aa7d23cdd2e1b169d7a58231abea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/pre-dexed/debug/classes_8b9f9b0fe3dc1cc7e9b88eb7a3a995eb8795a156.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color-v23/abc_tint_switch_track.xml"
+    }
+]
