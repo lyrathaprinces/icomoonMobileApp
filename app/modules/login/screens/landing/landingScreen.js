@@ -3,6 +3,7 @@ import type {
   Element as ReactElement,
 } from 'react';
 import {View, Text} from 'react-native';
+import {Icon} from "@up-shared/components";
 
 class LandingScreen extends React.PureComponent<any, any> {
   constructor(props: any) {
@@ -12,7 +13,11 @@ class LandingScreen extends React.PureComponent<any, any> {
   render(): ReactElement<any> {
     return (
       <View>
-        <Text>Icomoon Component</Text>
+        <Icon 
+          name="icon-share1"
+          size={35}
+          color="green"
+        />
       </View>
     );
   }
