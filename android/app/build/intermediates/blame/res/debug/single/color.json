@@ -1,23 +1,23 @@
 [
     {
-        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
         "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",

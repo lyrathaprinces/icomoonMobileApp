@@ -24,6 +24,7 @@ MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build
 		ADDED from /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:5:22-75
 application
 ADDED from /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [icomoonApp:realm:unspecified] /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/AndroidManifest.xml:13:5-20
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] /home/clacey/.android/build-cache/c1582c3712f7ee87cc8e47edd334cb772fcebbd2/output/AndroidManifest.xml:25:5-29:19
@@ -73,6 +74,7 @@ ADDED from /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/
 		ADDED from /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
 INJECTED from /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [icomoonApp:realm:unspecified] /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
 MERGED from [icomoonApp:react-native-vector-icons:unspecified] /home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:21:5-23:78

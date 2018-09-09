@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",

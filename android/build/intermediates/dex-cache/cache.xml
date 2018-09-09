@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9fa60e609671997fb006349a98b83976aab0e6d5">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_5f2da4d1d4845096538e86011ce8ba1754ad9ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
