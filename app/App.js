@@ -1,14 +1,27 @@
 import React from 'react';
-import LandingScreen from './modules/login/screens/landing/landingScreen';
+import {Provider} from 'react-redux';
+import type {Element as ReactElement} from 'react';
 
+import LandingScreen from './modules/auth/screens/landing/landingScreen';
+import configureStore from './store/ConfigureStore';
+
+const store = configureStore();
 class App extends React.PureComponent<any, any> {
   constructor(props:any) {
     super(props);
   }
-  render() {
+
+  renderContent = (): ReactElement<any> => {
     return (
-      <LandingScreen />
+      <Provider store={store}>
+        <LandingScreen />
+      </Provider>
     );
+  }
+  render() {
+    const content = this.renderContent();
+
+    return content;
   }
 }
 
