@@ -2,34 +2,30 @@ import React from 'react';
 import type {
   Element as ReactElement,
 } from 'react';
-import {View} from 'react-native';
+import {View, Alert} from 'react-native';
 
-import {Icon} from '@up-shared/components';
-import {customerActions} from '@up-storage/realm';
+import {BUTTON_PRESS} from '../../../../shared/strings';
+
+import {Button} from '@up-shared/components';
+import styles from './landing.styles';
 
 class LandingScreen extends React.PureComponent<any, any> {
-  constructor(props: any) {
+  constructor(props) {
     super(props);
   }
 
-  componentDidMount() {
-    customerActions.saveCustomer({
-      custId: 1,
-      custName: 'Asbar Ali',
-      address: 'Colombo, Sri lanka',
-      custImageAddress: 'http:///blahhh',
-    });
-    const customerDetails = customerActions.retrieveAllCustomer();
-    console.log('customerDetails', customerDetails);
+  handleButtonPress = () => {
+    Alert.alert('Pressed!!');
   }
 
   render(): ReactElement<any> {
     return (
-      <View>
-        <Icon
-          color="green"
-          name="icon-share1"
-          size={35}
+      <View style={styles.buttonWrapper}>
+        <Button
+          buttonStyle={styles.buttonStyle}
+          buttonText={BUTTON_PRESS}
+          onClick={this.handleButtonPress}
+          textStyle={styles.textStyle}
         />
       </View>
     );
