@@ -11,7 +11,7 @@ import type {
 
 import {Icon} from '@up-shared/components';
 
-class ProfileScreen extends React.PureComponent<any, any> {
+class UpcomingScreen extends React.PureComponent<any, any> {
   static defaultProps: any
 
   static navigationOptions: any = ({navigation}) => ({
@@ -19,16 +19,17 @@ class ProfileScreen extends React.PureComponent<any, any> {
       focused ?
         <Icon
           color="blue"
-          name='icon-plus1'
+          name='asset-541'
           size={25}
         /> :
         <Icon
           color="gray"
-          name='icon-plus1'
+          name='asset-541'
           size={25}
         />
     ),
   });
+
   constructor(props: any) {
     super(props);
   }
@@ -37,15 +38,15 @@ class ProfileScreen extends React.PureComponent<any, any> {
 
   render(): ReactElement<any> {
     return (
-      <Text>Profile Screen</Text>
+      <Text>Upcoming Screen</Text>
     );
   }
 }
 
-ProfileScreen.propTypes = {
+UpcomingScreen.propTypes = {
 };
 
-ProfileScreen.defaultProps = {
+UpcomingScreen.defaultProps = {
 };
 
-export default ProfileScreen;
+export default UpcomingScreen;

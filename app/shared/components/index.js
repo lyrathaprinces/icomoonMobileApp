@@ -1,5 +1,6 @@
-import Icon from "./icon/Icons.component";
+import Icon from './icon/Icons.component';
 
 export {
-    Icon,
+  Icon,
 }
+;
