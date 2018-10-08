@@ -2,6 +2,42 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/44f867a93742a13329d5680bf60edde179c47864/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63bbfe4a7fe8b55434f06a1a4206e219874464aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_e037c61b8dc118bfefafa194bb7afbdd5067a059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_05ad962a414d98bd964a722e0c262a8fbce817b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19b6a1dc6dda0ccdd7ce13cf5a172c7caf3c7a00/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
@@ -11,6 +47,78 @@
         <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_5f2da4d1d4845096538e86011ce8ba1754ad9ff2.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/nanohttpd-2.2.0_58c2884b00b9638cf436ef7792e5b3223f285295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/66d82cf4da5bad18a2185a01fceb146aa804f525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9054ab9ab8a5ae0fc030de73a083db1f18d566d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/1b0bb1b9369834153014b0a26bcc72a2adb22d46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa12558b94044163d6440a5c13cea3377898d87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/2dd4073897fd8c6101f15ac86332132beecee4cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_455e7bd46ae1dfc20e92246dd924cbe839eeca28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/327a7f299c2cf9763cb6a3c873a592771d7ce143/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f25c875c0591ae43e7cfdd9f65ac638ae31cca07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/91df814098344fc23d1ad258280cceb4872f3932/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18dbea3f9f93f819f01ca55b1fe97c63a3d89e72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d876ad68d4d2a634e39afd834e3284b6a63e8db">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_228daad73e531b60bedd2390deeb76de6773a8d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/d6e317152d2d0c189fa2f7c5209fc3e825ef25e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_492a120752502c80cc059988ccf17feb851a899f/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
@@ -18,6 +126,195 @@
         revision="26.0.3"
         sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
         <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_12942673c3ffb64ec008d325ac999a827f7a9b0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_676d1fab147a7e7b123d4b358f650c2982ef1962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_7dda209623c72131bad4b52ede911891ad5a9416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10f293a62a819498444d5f2ad57fb379d104b198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_8d154f078810d84c8d840262c916c070f27ec531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/85e6fff99eca874a592c291094a3ca5d100c1dc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51ce241ed56ed52e15ddedf87bb02fbb86684ccc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/c12f7ef5cda21546b43c36ed399b2b45643adc1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fab49f5d07c1762564c43f0755226356f6ffb9e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_4eb1720e55415eb16d76a9110349aa132d2e1c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4767a7444c8bdd13580265d761bfd0133ef4fa43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_c0adde6288c5404f02cc718930e6a237d6da6b5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_7f6741a4fb208958f0042c2a3867869a00ca4440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_884b14ea3f35e6067cd0edf9d8d8d0864cd05d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a82d9411c911237cc8b98ebe75869c271aa0b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/9e107150b91f6a34e2fdd4aca472020622b94b59/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88731a2323f2b2e26a8d2486587275f5ceabfbb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_2b2ba281cb626ee95a1957f7500bed9cb28c2f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/1c0e5fe5f3c4fb8336f3053fa593027ae9455e29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67f3fe746aa6dcfe3ab5fd0d9f15c6cf4c472193/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_682b68a761fad90d5e3ddadbefbd9c048c906867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/34722da35da951c8d3cc20fd19f3c90db4aee988/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df7e98693c491e86959f5f58325d2fd1f911475d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/64ad6fd779d9c7cd7ccd8eb5d346ce46a94c8378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9980d6a3aa93b4269812c14048311cfb8fca9ffa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/4dc9c6d7343ba1351c758ed32da1885782d61c57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c354a4eb1348d4d92ad18e097f04d77c97282158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/c7f03cb5f09f5ef06932915c3118fe7b4b9f131f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18965840127c44d365ac7eef0ef77c51cae2af5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/clacey/.android/build-cache/c1582c3712f7ee87cc8e47edd334cb772fcebbd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5336159d93e20c3c9bccedddfc96b7d7c4d584c/classes.dex" />
     </item>
 
 </items>
