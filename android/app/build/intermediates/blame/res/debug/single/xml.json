@@ -4,7 +4,7 @@
         "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/xml/preferences.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
-        "source": "/home/clacey/.android/build-cache/71b5a8e81636aa7d23cdd2e1b169d7a58231abea/output/res/xml/preferences.xml"
+        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
     }
 ]
