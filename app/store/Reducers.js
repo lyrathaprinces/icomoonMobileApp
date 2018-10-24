@@ -1,7 +1,7 @@
 import {combineReducers} from 'redux';
 
-import ProfileReducer from './../modules/profile/reducers/ProfileReducer';
+import TodoReducer from './../modules/auth/screens/reducer/TodoReducer';
 
 export default combineReducers({
-  Profile: ProfileReducer,
+  todo: TodoReducer,
 });

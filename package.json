@@ -22,6 +22,7 @@
     "react-redux": "^5.0.7",
     "realm": "^2.15.3",
     "redux": "^4.0.0",
+    "reduxsauce": "^1.0.0",
     "rn-fetch-blob": "^0.10.13"
   },
   "devDependencies": {
