@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [icomoonApp:realm:unspecified] /home/clacey/Documents/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/clacey/.android/build-cache/c1582c3712f7ee87cc8e47edd334cb772fcebbd2/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clacey/.android/build-cache/327a7f299c2cf9763cb6a3c873a592771d7ce143/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/clacey/.android/build-cache/64ad6fd779d9c7cd7ccd8eb5d346ce46a94c8378/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/clacey/.android/build-cache/66d82cf4da5bad18a2185a01fceb146aa804f525/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/clacey/.android/build-cache/91df814098344fc23d1ad258280cceb4872f3932/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/clacey/.android/build-cache/34722da35da951c8d3cc20fd19f3c90db4aee988/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/clacey/.android/build-cache/d6e317152d2d0c189fa2f7c5209fc3e825ef25e3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/clacey/.android/build-cache/1c0e5fe5f3c4fb8336f3053fa593027ae9455e29/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/clacey/.android/build-cache/44f867a93742a13329d5680bf60edde179c47864/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/clacey/.android/build-cache/580b0242eb251caabb760e1e933ba3cb6f571620/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.icomoonapp.MainActivity
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [icomoonApp:realm:unspecified] /home/clacey/Documents/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [icomoonApp:react-native-vector-icons:unspecified] /home/clacey/Documents/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/clacey/.android/build-cache/c1582c3712f7ee87cc8e47edd334cb772fcebbd2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clacey/.android/build-cache/327a7f299c2cf9763cb6a3c873a592771d7ce143/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/clacey/.android/build-cache/64ad6fd779d9c7cd7ccd8eb5d346ce46a94c8378/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/clacey/.android/build-cache/66d82cf4da5bad18a2185a01fceb146aa804f525/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/clacey/.android/build-cache/91df814098344fc23d1ad258280cceb4872f3932/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/clacey/.android/build-cache/34722da35da951c8d3cc20fd19f3c90db4aee988/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/clacey/.android/build-cache/d6e317152d2d0c189fa2f7c5209fc3e825ef25e3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/clacey/.android/build-cache/1c0e5fe5f3c4fb8336f3053fa593027ae9455e29/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/clacey/.android/build-cache/c12f7ef5cda21546b43c36ed399b2b45643adc1c/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/clacey/.android/build-cache/4dc9c6d7343ba1351c758ed32da1885782d61c57/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/clacey/.android/build-cache/85e6fff99eca874a592c291094a3ca5d100c1dc1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/clacey/.android/build-cache/c7f03cb5f09f5ef06932915c3118fe7b4b9f131f/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/clacey/.android/build-cache/1b0bb1b9369834153014b0a26bcc72a2adb22d46/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/clacey/.android/build-cache/2dd4073897fd8c6101f15ac86332132beecee4cb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/clacey/.android/build-cache/9e107150b91f6a34e2fdd4aca472020622b94b59/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/clacey/.android/build-cache/44f867a93742a13329d5680bf60edde179c47864/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/clacey/.android/build-cache/c1582c3712f7ee87cc8e47edd334cb772fcebbd2/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/clacey/.android/build-cache/327a7f299c2cf9763cb6a3c873a592771d7ce143/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/clacey/.android/build-cache/64ad6fd779d9c7cd7ccd8eb5d346ce46a94c8378/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/clacey/.android/build-cache/66d82cf4da5bad18a2185a01fceb146aa804f525/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/clacey/.android/build-cache/91df814098344fc23d1ad258280cceb4872f3932/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/clacey/.android/build-cache/34722da35da951c8d3cc20fd19f3c90db4aee988/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/clacey/.android/build-cache/d6e317152d2d0c189fa2f7c5209fc3e825ef25e3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/clacey/.android/build-cache/1c0e5fe5f3c4fb8336f3053fa593027ae9455e29/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/clacey/.android/build-cache/8c02395c9c49685522556c11daafa52407bf7971/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/clacey/Documents/icomoonMobileApp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

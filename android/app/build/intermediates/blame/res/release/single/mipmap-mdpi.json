@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/clacey/Documents/icomoonMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/clacey/Documents/icomoonMobileApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -3,30 +3,30 @@
 
     <item
         is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jar="/home/clacey/Documents/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="8e3f7eb96768074779b70dd6a16b20cfbba0b1ca">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_38dd3f71712dd99a6406a365538aa79d6d54b570.jar" />
+        sha1="9fa60e609671997fb006349a98b83976aab0e6d5">
+        <dex dex="/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_3237af7a0f689f0bfdc4f982bb40693ffcd717b1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
+        jar="/home/clacey/Documents/icomoonMobileApp/node_modules/rn-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="3a5063b7d0fa33e8125007629233f9126293af67">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_5f2da4d1d4845096538e86011ce8ba1754ad9ff2.jar" />
+        sha1="79370dc4b88d39f0d977a0cdd3c98f3072e4160a">
+        <dex dex="/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_b11177164d1c5ed5e72bb431fc9b61c26de2ad9d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
+        jar="/home/clacey/Documents/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="8065a43b1a868d17519e67d7651e13a99862d3ce">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_12942673c3ffb64ec008d325ac999a827f7a9b0f.jar" />
+        sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
+        <dex dex="/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_7a4af3f766df35c736ebdfcd5ae04b8612871427.jar" />
     </item>
 
 </items>
