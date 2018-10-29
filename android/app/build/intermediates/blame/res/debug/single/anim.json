@@ -1,39 +1,27 @@
 [
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_push_up_out.xml"
-    },
-    {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_fade_in.xml"
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_slide_up.xml"
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
         "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_slide_down.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_enter.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
@@ -48,76 +36,20 @@
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_in_top.xml"
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_push_up_in.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_slide_down.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_exit.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_exit.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_fade_in.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_push_up_in.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_enter.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_slide_up.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
@@ -128,16 +60,12 @@
         "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_popup_enter.xml"
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/clacey/.android/build-cache/5a257f3e7e3c67792497409c415ebcd0fd996264/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/anim/catalyst_fade_out.xml"
-    },
-    {
-        "merged": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/home/clacey/.android/build-cache/af42498aa6d91588c33d130db0d97a4baeb8aeab/output/res/anim/tooltip_exit.xml"
     },
     {
         "merged": "/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
