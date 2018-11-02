@@ -1,4 +1,4 @@
-#Sun Oct 28 11:13:04 IST 2018
+#Tue Oct 30 10:22:14 IST 2018
 base.0=/home/clacey/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1fefc07c68233bcd9c0093563cfddb511b3f49f5
 renamed.1=classes2.dex
 renamed.0=classes.dex

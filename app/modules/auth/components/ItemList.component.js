@@ -12,6 +12,9 @@ class ItemListComponent extends React.PureComponent<any, any> {
     };
   }
 
+  handleEditMode = () => {
+    this.props.handleListItemPress();
+  }
 
   render() {
     const {item, index} = this.props;

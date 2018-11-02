@@ -2,7 +2,7 @@ import React from 'react';
 import type {
   Element as ReactElement,
 } from 'react';
-import {View, Text, TextInput, TouchableOpacity, FlatList} from 'react-native';
+import {View, Text, TextInput, TouchableOpacity, FlatList, Keyboard} from 'react-native';
 import {connect} from 'react-redux';
 
 import TodoActions from '../../actions/TodoActions';
@@ -16,7 +16,8 @@ class TodoScreen extends React.PureComponent<any, any> {
     super(props);
     this.state = {
       todoList: [{city: 'US/New York'}, {city: 'Sri Lanka/Colombo'}],
-      editMode: true,
+      editMode: false,
+      item: '',
     };
   }
 
@@ -31,6 +32,41 @@ class TodoScreen extends React.PureComponent<any, any> {
       //   todoList: todo,
       // });
     }
+  }
+
+  handleCancelButton = () => {
+    this.setState({
+      editMode: false,
+      item: '',
+    });
+    Keyboard.dismiss();
+  }
+
+  onHandleListItemPress = () => {
+    this.setState({
+      editMode: true,
+    });
+    Keyboard.dismiss();
+  }
+
+  handleEditButton = () => {
+    Keyboard.dismiss();
+    this.setState({
+      item: '',
+    });
+  }
+
+  handleAddButton = () => {
+    Keyboard.dismiss();
+    this.setState({
+      item: '',
+    });
+  }
+
+  handleOnChangeItem = (textInput) => {
+    this.setState({
+      item: textInput,
+    });
   }
 
   // HEADER SECTION START
@@ -123,6 +159,7 @@ class TodoScreen extends React.PureComponent<any, any> {
     const {item, index} = cityObject;
     return (
       <ItemListComponent
+        handleListItemPress={this.onHandleListItemPress}
         index={index}
         item={item}
       />

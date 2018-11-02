@@ -7,6 +7,8 @@ import configureStore from './store/ConfigureStore';
 
 const store = configureStore();
 
+console.disableYellowBox = true;
+
 class App extends React.PureComponent<any, any> {
   constructor(props:any) {
     super(props);
