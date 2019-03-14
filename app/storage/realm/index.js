@@ -3,10 +3,11 @@ import Realm from 'realm';
 
 import createdCustomerAction from './actions/customerAction';
 import CustomerModel from './models/customerModel';
+import OrderModel from './models/orderModel';
 import type{CustomerActionInterface} from './actions/customerAction';
 
 const realmInstance = new Realm({
-  schema: [CustomerModel],
+  schema: [CustomerModel, OrderModel],
 });
 
 /**

@@ -14,5 +14,13 @@
     {
         "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/clacey/Documents/sample/icomoonApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/asbar/Documents/icomoonMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/asbar/Documents/icomoonMobileApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     }
 ]

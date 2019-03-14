@@ -4,6 +4,10 @@
         "source": "/home/clacey/.android/build-cache/264489790aa45f3a06e4c2c3ac4644182da2d911/output/res/xml/preferences.xml"
     },
     {
+        "merged": "/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/asbar/.android/build-cache/dd88fed0bd1e48ae4385897a00d14f2f91a305d6/output/res/xml/preferences.xml"
+    },
+    {
         "merged": "/home/clacey/Documents/sample/icomoonApp/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/clacey/.android/build-cache/71b5a8e81636aa7d23cdd2e1b169d7a58231abea/output/res/xml/preferences.xml"
     }

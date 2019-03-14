@@ -1,3 +1,5 @@
+import OrderModel from './orderModel';
+
 // @flow
 
 /**
@@ -13,7 +15,7 @@ export default class CustomerModel {
   }
 
   /**
-   * Get the customer primary ke
+   * Get the customer primary key
    * @return {string} return the primary key of the customer
    */
   static PrimaryKey() {
@@ -33,6 +35,7 @@ export default class CustomerModel {
         'name': 'string',
         'address': 'string',
         'imageAddress': 'string',
+        'orders': `${OrderModel.getOrderModelName()}[]`,
       },
     }
 }

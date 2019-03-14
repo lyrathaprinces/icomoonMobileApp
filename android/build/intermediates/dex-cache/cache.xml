@@ -2,22 +2,301 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/1603581661151dcb0e8d43760b2e69ab706f5b17/output/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.3"
-        sha1="9fa60e609671997fb006349a98b83976aab0e6d5">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_5f2da4d1d4845096538e86011ce8ba1754ad9ff2.jar" />
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e51a5bbf18aa567c0d5d5e103a45afb4becc6468/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.3"
-        sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_12942673c3ffb64ec008d325ac999a827f7a9b0f.jar" />
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/nanohttpd-2.2.0_a5e4e522aa109a2fd783223d07a84297c25eccf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fc10b196f2f21747a7a60215e8249ed600edaee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/15ab05a7737a0f8a673b4ae5210059ed4884f9d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f15822be542413ddaf4487ebbd8935d21f586849/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/ac56916032df2c9ee07d22f7e90666142cf5df69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75b91d0a1c2b9c8e61d9f691d00ea6ba91bac2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/23e556ce68216983fe67cc7ae938fa8ce5ae9f5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e78986acdda3bafa67b7efabe59dd15f4c60216d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_a86093de76dd78200c3ccc4300653588a89c0ed5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/992c15a039c5cd99514b7114516995667ac104d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3645fa1cc0195a74316f87e03d25e0b56efb232/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_9d9bb9ed4619b13b7be0232d91bfec4f021d3674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/45421781192524d7f3c73473d74bec38dd74d08c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef606fffe4c711e70e1c88d577c80d6f9922e278/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_66e2f30bac1989f6441cf911780ef3283d814f0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/3c99f9f0a2ed6220df80a3fd3da663677004408e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a12437ff2d93fd4119033ac6b894387773fc161/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/5fc226ac12995646d72bc9b4556018d68ea8a457/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79f6f76cfde642a01668d42aba1578a509957f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/dd88fed0bd1e48ae4385897a00d14f2f91a305d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_448af7dba040194f0cd69521131a80267fc1d5fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/ed777cdb023d906cf378537a66ee2ff0f8de66cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fe758405aeea9637033e6b108fdb8ca26a9461e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/e74a86a605f1aed80b5673eff1c63825ce68266a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e3d2e3e921e2ff58061d145a1c259c6d6ceb8e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_6e3aadcf8e67500cf3644320e5a353f24ac5d491/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/89ffa46b53c47d92b80dca2da65f51c39e92f52a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_888ae3664c2a564f594acbe102c04ac1c2cc1bda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="99e85b166a534afd7bde9fc5df7b8ca155829b2a">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a00425aa643792ae6724d2077bc23e78a4fa375c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/edcdbeb17d89f17b9bf1d3cccff5d1e1165d4bfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea2b915064ec6d0e0452b77fbcfd1107425d7ef3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/1e77bab15fa0f5df73dbae33efc7294312678793/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1465316736e813de19fba0dcef9596cc1fccff79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_75653b9acb1c073f2f61fc1514f704204fe935eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_91525b58c1bbf99a4a881b1f0ddccb66b5aac1ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/f81be253a12a7487f0bec133ac47e9094f2c13f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d8bf4b2f738a065e850ab066f0e2b2655d98c5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/dd88fed0bd1e48ae4385897a00d14f2f91a305d6/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_9a7328af3449ce1401b0b6b45395adc26709d4fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/63221001b01d168c6e10c62315576e12be89a911/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcaa0302ae7daa990790cc399288950719523a76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/0195b3c986c12ae5f70e368802824815fb061700/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_daaf7bfb52a347836e6b1b43bfca0b232bf82bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_aa01b9782b7ee3c32fc33d28811ffd344a52090e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_923bf8b05660ee296bd75c487ac2d1b3a22560a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_712450b277473670bd34fdf8c858f07fb7f07c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_ae3d1396a407fdad4d8b919e4678972193dbe309/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/1e3291c8642b71d7be53ec210dfb3a148b26cd13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_225e3c8df67f07a20e2603987b138c0041b4b833/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asbar/.android/build-cache/cb4bac2e052d048983fd114e40a275698b346059/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4443d5aa062910e86bcd68bc310b3c0ae37213c/classes.dex" />
     </item>
 
 </items>
