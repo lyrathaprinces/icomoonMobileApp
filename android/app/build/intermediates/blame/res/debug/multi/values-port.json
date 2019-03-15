@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/asbar/.android/build-cache/45421781192524d7f3c73473d74bec38dd74d08c/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {

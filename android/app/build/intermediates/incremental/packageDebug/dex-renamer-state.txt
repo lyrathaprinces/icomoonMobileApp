@@ -1,4 +1,7 @@
-#Sat Sep 08 01:21:23 IST 2018
-base.0=/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Mar 15 08:07:19 IST 2019
+base.0=/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fc10b196f2f21747a7a60215e8249ed600edaee
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a00425aa643792ae6724d2077bc23e78a4fa375c/classes.dex
+base.1=/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a00425aa643792ae6724d2077bc23e78a4fa375c
+file.0=/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fc10b196f2f21747a7a60215e8249ed600edaee/classes.dex

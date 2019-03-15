@@ -2,22 +2,22 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/realm/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.3"
-        sha1="9fa60e609671997fb006349a98b83976aab0e6d5">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_5f2da4d1d4845096538e86011ce8ba1754ad9ff2.jar" />
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8fc10b196f2f21747a7a60215e8249ed600edaee/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.3"
-        sha1="526a445406d661bb9c5606b74ab6ddf34a4b3004">
-        <dex dex="/home/clacey/Documents/sample/icomoonMobile/icomoonMobileApp/android/app/build/intermediates/pre-dexed/debug/classes_12942673c3ffb64ec008d325ac999a827f7a9b0f.jar" />
+        sha1="78490835582ca2db75fffd78463cb9fa93d9868f">
+        <dex dex="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a00425aa643792ae6724d2077bc23e78a4fa375c/classes.dex" />
     </item>
 
 </items>
