@@ -6,7 +6,7 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1552500208740"
+    timestamp="1552708110280"
     token="4342610928496952033"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1552500208740"
+        timestamp="1552708110280"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/asbar/Documents/icomoonMobileApp/android/app/build/intermediates/split-apk/debug/slices/slice_6.apk"

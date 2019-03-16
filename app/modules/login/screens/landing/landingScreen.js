@@ -8,16 +8,18 @@ import {Icon} from '@up-shared/components';
 import {customerActions} from '@up-storage/realm';
 
 const dummyData = [
-  {title: 'Jhon Anderson',
-    description: 'Software Engineer',
-    key: 'item1',
-    url: 'https://raw.githubusercontent.com/wix/react-native-navigation/master/.logo.png',
+  {
+    _id: 1,
+    name: 'Asbar Ali',
+    address: 'Colombo, Sri lanka',
+    imageAddress: 'https://raw.githubusercontent.com/wix/react-native-navigation/master/.logo.png',
   },
   {
-    title: 'Iahn Brah',
-    description: 'Electrical Engineer blah',
-    key: 'item2',
-    url: 'https://facebook.github.io/react-native/docs/assets/favicon.png'},
+    _id: 2,
+    name: 'Asbar Ali',
+    address: 'Colombo, Sri lanka',
+    imageAddress: 'https://raw.githubusercontent.com/wix/react-native-navigation/master/.logo.png',
+  },
 ];
 class LandingScreen extends React.PureComponent<any, any> {
   constructor(props: any) {
@@ -35,6 +37,10 @@ class LandingScreen extends React.PureComponent<any, any> {
     console.log('customerDetails', customerDetails);
   }
 
+  onHandleKeyExtractor = ((item, key)=> {
+    return key.toString();
+  })
+
   renderHeader = () => {
     return (
       <View style={styles.headerWrapper}>
@@ -44,18 +50,20 @@ class LandingScreen extends React.PureComponent<any, any> {
   }
 
   renderListItem = (listItem) => {
-    // console.log('item', item);
     return (
-      <TouchableOpacity style={styles.listItemWrapper}>
+      <TouchableOpacity
+        key={listItem.item._id}
+        style={styles.listItemWrapper}
+      >
         <View style={styles.imageWrapper}>
           <Image
-            source={{uri: listItem.item.url}}
+            source={{uri: listItem.item.imageAddress}}
             style={styles.image}
           />
         </View>
         <View style={styles.listTextWrapper}>
-          <Text style={styles.title}>{listItem.item.title}</Text>
-          <Text style={styles.description}>{listItem.item.description}</Text>
+          <Text style={styles.title}>{listItem.item.name}</Text>
+          <Text style={styles.description}>{listItem.item.address}</Text>
         </View>
         <View style={styles.iconWrapper}>
           <Icon
@@ -74,6 +82,7 @@ class LandingScreen extends React.PureComponent<any, any> {
         <FlatList
           ListHeaderComponent={this.renderHeader}
           data={dummyData}
+          keyExtractor={this.onHandleKeyExtractor}
           renderItem={this.renderListItem}
         />
       </View>

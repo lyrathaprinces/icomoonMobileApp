@@ -26,18 +26,13 @@ export default (realmInstance: any): CustomerActionInterface => {
        * @return {Promise<CustomerModelTypeInterface>} created customer object
        */
     saveCustomer: (customerResponse: any): Promise<CustomerModel> => {
-      const {custId, custName, address, custImageAddress} = customerResponse;
       return new Promise((resolve, reject) => {
         try {
-          const customer: CustomerModelTypeInterface = {
-            _id: custId,
-            name: custName,
-            address: address,
-            imageAddress: custImageAddress,
-          };
           realmInstance.write(()=> {
-            const createdCustomer = realmInstance.create(CustomerModel.getCustomerModelName(), customer, true);
-            resolve(createdCustomer);
+            customerResponse.forEach((element) => {
+              realmInstance.create(CustomerModel.getCustomerModelName(), element, true);
+            });
+            resolve();
           });
         } catch (error) {
           resolve(error);
