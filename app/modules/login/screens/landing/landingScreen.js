@@ -12,13 +12,13 @@ const dummyData = [
     _id: 1,
     name: 'Asbar Ali',
     address: 'Colombo, Sri lanka',
-    imageAddress: 'https://raw.githubusercontent.com/wix/react-native-navigation/master/.logo.png',
+    imageAddress: 'https://cdn.iconscout.com/icon/free/png-256/avatar-375-456327.png',
   },
   {
     _id: 2,
     name: 'Asbar Ali',
     address: 'Colombo, Sri lanka',
-    imageAddress: 'https://raw.githubusercontent.com/wix/react-native-navigation/master/.logo.png',
+    imageAddress: 'https://cdn.iconscout.com/icon/free/png-256/avatar-372-456324.png',
   },
 ];
 class LandingScreen extends React.PureComponent<any, any> {
